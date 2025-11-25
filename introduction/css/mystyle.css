@@ -1,10 +1,11 @@
 body {
-  margin: 0;
-  height: 100vh;
-  background: 
-    linear-gradient(120deg, rgba(0,0,0,0.3), rgba(0,0,0,0.3)),
-    url("/mnt/data/2063f677-1465-4087-8c78-4902c2653d21.png") 
-    no-repeat center center fixed;
-  background-size: cover;
-  color: #fff;
+  background-image: url("https://4kwallpapers.com/images/wallpapers/zenitsu-agatsuma-5k-2560x1440-16938.jpg");
+
 }
+body {
+  background-image: url("https://4kwallpapers.com/images/wallpapers/zenitsu-agatsuma-5k-2560x1440-16938.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+}
+
