@@ -1,8 +1,10 @@
 body {
-  background-color: lightblue;
-}
-
-h1 {
-  color: navy;
-  margin-left: 20px;
+  margin: 0;
+  height: 100vh;
+  background: 
+    linear-gradient(120deg, rgba(0,0,0,0.3), rgba(0,0,0,0.3)),
+    url("/mnt/data/2063f677-1465-4087-8c78-4902c2653d21.png") 
+    no-repeat center center fixed;
+  background-size: cover;
+  color: #fff;
 }
