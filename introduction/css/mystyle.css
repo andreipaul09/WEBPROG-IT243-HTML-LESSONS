@@ -1,13 +1,11 @@
 body {
   margin: 0;
   height: 100vh;
-  background: linear-gradient(120deg, #4B0082, #DC143C);
-  color: #E0E0E0;
+  background: 
+    linear-gradient(120deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)),
+    url("/mnt/data/4b6ae7e0-c261-4bcd-bec6-4341cb00cf7f.png") 
+    no-repeat center center fixed;
+  background-size: cover;
+  color: #ffffff;
 }
 
-button {
-  background-color: #000000;
-  color: #DC143C;
-  border: 2px solid #4B0082;
-  padding: 12px 20px;
-}
