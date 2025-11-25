@@ -1,10 +1,15 @@
+
 body {
+  margin: 0;
+  height: 100vh;
   background: linear-gradient(120deg, #4B0082, #DC143C);
   color: #E0E0E0;
 }
 
+/* Kevin Durant-style button theme */
 button {
   background-color: #000000;
   color: #DC143C;
   border: 2px solid #4B0082;
-}
+  padding: 12px 20px;
+
