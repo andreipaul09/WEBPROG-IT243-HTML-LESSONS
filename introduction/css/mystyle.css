@@ -1,5 +1,12 @@
 body {
   background: #ffffff url("https://wallpapers-clan.com/wp-content/uploads/2024/07/kny-cute-zenitsu-yellow-wallpaper-preview-1024x576.jpg") no-repeat right top;
   margin-right: 200px;
+
+  .image-container {
+  width: 200px;
+  height: 300px;
+  border: 1px solid black;
+  margin-bottom: 25px;
+}
 }
 
