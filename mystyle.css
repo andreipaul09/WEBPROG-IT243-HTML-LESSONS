@@ -1,0 +1,10 @@
+body {
+  background: linear-gradient(120deg, #4B0082, #DC143C);
+  color: #E0E0E0;
+}
+
+button {
+  background-color: #000000;
+  color: #DC143C;
+  border: 2px solid #4B0082;
+}
