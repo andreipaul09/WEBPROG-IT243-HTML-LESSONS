@@ -1,11 +1,4 @@
 body {
-  background-image: url("https://4kwallpapers.com/images/wallpapers/zenitsu-agatsuma-5k-2560x1440-16938.jpg");
-
+  background: #ffffff url("https://4kwallpapers.com/images/wallpapers/zenitsu-agatsuma-5k-2560x1440-16938.jpg") no-repeat right top;
+  margin-right: 200px;
 }
-body {
-  background-image: url("https://4kwallpapers.com/images/wallpapers/zenitsu-agatsuma-5k-2560x1440-16938.jpg");
-  background-repeat: no-repeat;
-  background-position: right top;
-  background-attachment: fixed;
-}
-
